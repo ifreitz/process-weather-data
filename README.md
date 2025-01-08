@@ -19,8 +19,8 @@ A Python script to analyze weather data and generate insights about temperature 
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd weather-data-analysis
+git clone git@github.com:ifreitz/process-weather-data.git
+cd process-weather-data
 ```
 
 
